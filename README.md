@@ -1,6 +1,7 @@
 # workflow
 
 $ --> global scope (access global data)
+
 . --> fetch data from perticular block of code.
 
 list[0] --> access data from specific group of elements from list 
